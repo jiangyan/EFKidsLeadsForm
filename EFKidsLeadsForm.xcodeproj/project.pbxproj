@@ -14,7 +14,6 @@
 		B62E32A314127FC80037D96D /* TDDatePickerController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B62E329C14127FC80037D96D /* TDDatePickerController.xib */; };
 		B62E32A414127FC80037D96D /* TDSemiModalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B62E329F14127FC80037D96D /* TDSemiModalViewController.m */; };
 		B62E32A514127FC80037D96D /* UIViewController+TDSemiModalExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = B62E32A114127FC80037D96D /* UIViewController+TDSemiModalExtension.m */; };
-		B62E32A81412817E0037D96D /* SemiModalViewExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = B62E32A71412817E0037D96D /* SemiModalViewExtension.m */; };
 		B62E32B1141351240037D96D /* EFKidsLeadsSubmittedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B62E32AF141351240037D96D /* EFKidsLeadsSubmittedViewController.m */; };
 		B62E32B2141351240037D96D /* EFKidsLeadsSubmittedViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B62E32B0141351240037D96D /* EFKidsLeadsSubmittedViewController.xib */; };
 		B62E32B41413516F0037D96D /* SubmittedLandscape.png in Resources */ = {isa = PBXBuildFile; fileRef = B62E32B31413516F0037D96D /* SubmittedLandscape.png */; };
@@ -88,8 +87,6 @@
 		B62E329F14127FC80037D96D /* TDSemiModalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TDSemiModalViewController.m; sourceTree = "<group>"; };
 		B62E32A014127FC80037D96D /* UIViewController+TDSemiModalExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+TDSemiModalExtension.h"; sourceTree = "<group>"; };
 		B62E32A114127FC80037D96D /* UIViewController+TDSemiModalExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+TDSemiModalExtension.m"; sourceTree = "<group>"; };
-		B62E32A61412817E0037D96D /* SemiModalViewExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SemiModalViewExtension.h; sourceTree = "<group>"; };
-		B62E32A71412817E0037D96D /* SemiModalViewExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SemiModalViewExtension.m; sourceTree = "<group>"; };
 		B62E32AE141351240037D96D /* EFKidsLeadsSubmittedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EFKidsLeadsSubmittedViewController.h; sourceTree = "<group>"; };
 		B62E32AF141351240037D96D /* EFKidsLeadsSubmittedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EFKidsLeadsSubmittedViewController.m; sourceTree = "<group>"; };
 		B62E32B0141351240037D96D /* EFKidsLeadsSubmittedViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EFKidsLeadsSubmittedViewController.xib; sourceTree = "<group>"; };
@@ -240,8 +237,6 @@
 		B62E329914127FC80037D96D /* SemiModalView */ = {
 			isa = PBXGroup;
 			children = (
-				B62E32A61412817E0037D96D /* SemiModalViewExtension.h */,
-				B62E32A71412817E0037D96D /* SemiModalViewExtension.m */,
 				B62E329A14127FC80037D96D /* TDDatePickerController.h */,
 				B62E329B14127FC80037D96D /* TDDatePickerController.m */,
 				B62E329C14127FC80037D96D /* TDDatePickerController.xib */,
@@ -682,7 +677,6 @@
 				B62E32A214127FC80037D96D /* TDDatePickerController.m in Sources */,
 				B62E32A414127FC80037D96D /* TDSemiModalViewController.m in Sources */,
 				B62E32A514127FC80037D96D /* UIViewController+TDSemiModalExtension.m in Sources */,
-				B62E32A81412817E0037D96D /* SemiModalViewExtension.m in Sources */,
 				B62E32B1141351240037D96D /* EFKidsLeadsSubmittedViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
