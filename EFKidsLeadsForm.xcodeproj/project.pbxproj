@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B60C9FDE140ABC080017BF6B /* FormLandscape.png in Resources */ = {isa = PBXBuildFile; fileRef = B60C9FDC140ABC070017BF6B /* FormLandscape.png */; };
 		B60C9FDF140ABC080017BF6B /* FormPortrait.png in Resources */ = {isa = PBXBuildFile; fileRef = B60C9FDD140ABC070017BF6B /* FormPortrait.png */; };
 		B62E32701411F6060037D96D /* ef_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B62E326F1411F6060037D96D /* ef_logo.png */; };
 		B62E32A214127FC80037D96D /* TDDatePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = B62E329B14127FC80037D96D /* TDDatePickerController.m */; };
@@ -73,10 +72,11 @@
 		B63AEA73140A07B200EA4D2F /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B63AEA72140A07B200EA4D2F /* CFNetwork.framework */; };
 		B63AEA75140A07BE00EA4D2F /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B63AEA74140A07BE00EA4D2F /* libxml2.dylib */; };
 		B63AEA77140A07C900EA4D2F /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B63AEA76140A07C900EA4D2F /* libz.dylib */; };
+		B6EAAA561415127900AC90B7 /* FormLandscape.png in Resources */ = {isa = PBXBuildFile; fileRef = B6EAAA551415127900AC90B7 /* FormLandscape.png */; };
+		B6EAAA5E1415194B00AC90B7 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B6EAAA5D1415194B00AC90B7 /* LoadingView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B60C9FDC140ABC070017BF6B /* FormLandscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FormLandscape.png; path = EFKidsLeadsForm/Resources/Backgrounds/FormLandscape.png; sourceTree = "<group>"; };
 		B60C9FDD140ABC070017BF6B /* FormPortrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FormPortrait.png; path = EFKidsLeadsForm/Resources/Backgrounds/FormPortrait.png; sourceTree = "<group>"; };
 		B62E326F1411F6060037D96D /* ef_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ef_logo.png; sourceTree = "<group>"; };
 		B62E329A14127FC80037D96D /* TDDatePickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TDDatePickerController.h; sourceTree = "<group>"; };
@@ -196,6 +196,9 @@
 		B63AEA72140A07B200EA4D2F /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		B63AEA74140A07BE00EA4D2F /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
 		B63AEA76140A07C900EA4D2F /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		B6EAAA551415127900AC90B7 /* FormLandscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FormLandscape.png; path = ../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Resources/Backgrounds/FormLandscape.png; sourceTree = "<group>"; };
+		B6EAAA5C1415194B00AC90B7 /* LoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadingView.h; sourceTree = "<group>"; };
+		B6EAAA5D1415194B00AC90B7 /* LoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -220,8 +223,8 @@
 		B60C9FDA140ABBF60017BF6B /* Backgrounds */ = {
 			isa = PBXGroup;
 			children = (
+				B6EAAA551415127900AC90B7 /* FormLandscape.png */,
 				B62E32B31413516F0037D96D /* SubmittedLandscape.png */,
-				B60C9FDC140ABC070017BF6B /* FormLandscape.png */,
 				B60C9FDD140ABC070017BF6B /* FormPortrait.png */,
 			);
 			name = Backgrounds;
@@ -278,13 +281,6 @@
 				B63AE9D3140A03C600EA4D2F /* EFKidsLeadsFormAppDelegate.m */,
 			);
 			name = Delegates;
-			sourceTree = "<group>";
-		};
-		B6365064140F7D950006B2D4 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Views;
 			sourceTree = "<group>";
 		};
 		B63650911411323F0006B2D4 /* SBAlertView */ = {
@@ -344,10 +340,10 @@
 		B63AE9C9140A03C600EA4D2F /* EFKidsLeadsForm */ = {
 			isa = PBXGroup;
 			children = (
+				B6EAAA5B1415194B00AC90B7 /* Views */,
 				B62E326B1411F37D0037D96D /* Controllers */,
 				B636505D140F5B920006B2D4 /* Delegates */,
 				B636505C140F5B720006B2D4 /* UI */,
-				B6365064140F7D950006B2D4 /* Views */,
 				B636505B140F59BC0006B2D4 /* ViewControllers */,
 				B63AE9CA140A03C600EA4D2F /* Supporting Files */,
 			);
@@ -563,6 +559,16 @@
 			name = Loading;
 			sourceTree = "<group>";
 		};
+		B6EAAA5B1415194B00AC90B7 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B6EAAA5C1415194B00AC90B7 /* LoadingView.h */,
+				B6EAAA5D1415194B00AC90B7 /* LoadingView.m */,
+			);
+			name = Views;
+			path = ../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -618,12 +624,12 @@
 				B63AEA5A140A061E00EA4D2F /* README-GHUnit in Resources */,
 				B63AEA6B140A073700EA4D2F /* Default-Portrait~ipad.png in Resources */,
 				B63AEA6D140A074B00EA4D2F /* Default-Landscape~ipad.png in Resources */,
-				B60C9FDE140ABC080017BF6B /* FormLandscape.png in Resources */,
 				B60C9FDF140ABC080017BF6B /* FormPortrait.png in Resources */,
 				B62E32701411F6060037D96D /* ef_logo.png in Resources */,
 				B62E32A314127FC80037D96D /* TDDatePickerController.xib in Resources */,
 				B62E32B2141351240037D96D /* EFKidsLeadsSubmittedViewController.xib in Resources */,
 				B62E32B41413516F0037D96D /* SubmittedLandscape.png in Resources */,
+				B6EAAA561415127900AC90B7 /* FormLandscape.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -678,6 +684,7 @@
 				B62E32A414127FC80037D96D /* TDSemiModalViewController.m in Sources */,
 				B62E32A514127FC80037D96D /* UIViewController+TDSemiModalExtension.m in Sources */,
 				B62E32B1141351240037D96D /* EFKidsLeadsSubmittedViewController.m in Sources */,
+				B6EAAA5E1415194B00AC90B7 /* LoadingView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -169,49 +169,52 @@ static NSString* __post_url = @"http://devcn.englishtown.com/partners/e1/leads/f
 
 - (BOOL) postFormData {
     
-    NSDictionary* jsonDict = 
-        [[NSDictionary alloc] initWithObjectsAndKeys:
-        //inquiryDate, @"InquiryDate",
-        TextField_Name.text, @"Name",
-        TextField_Mobile.text, @"Mobile",
-        TextField_Email.text, @"Email",
-        TextField_Promoter.text, @"Promoter",
-        Button_Birth.titleLabel.text, @"Birth",
-        _currentChannelCode, @"ChannelCode",
-        _currentSchoolCode, @"SchoolCode",
-        TextView_Comment.text, @"Comment",
-        TextField_VisitTime.text, @"VisitTime",
-        TextField_MarketPlace.text, @"MarketPlace",
-        nil];
-    //NSLog([jsonDict JSONRepresentation]);
-    
-    [postRequest cancel];
-	[self setPostRequest:[ASIFormDataRequest requestWithURL:[NSURL URLWithString:__post_url]]];
-    NSString* json = [jsonDict JSONRepresentation];
-    if (!json) {
-        Label_Error.text = @"JSON序列化错误，请重试，或联系maggie.xie@ef.com";
-        return NO;
-    }
-    [postRequest appendPostData:[[jsonDict JSONRepresentation] dataUsingEncoding:NSUTF8StringEncoding]];
-    [postRequest addRequestHeader:@"Content-Type" value:@"application/json"];
-    [postRequest addRequestHeader:@"Accept" value:@"application/json"];
-    [postRequest setRequestMethod:@"POST"];
-	[postRequest setTimeOutSeconds:20];
-    
-    
-    // Synchronous POST JSON
-	[postRequest startSynchronous];
-    
-    [jsonDict release];
-    
-    NSError *error = [postRequest error];
-    if (!error) {
-        NSString *responseString = [postRequest responseString];
-        NSLog(@"%@", responseString);
-        if ([responseString caseInsensitiveCompare:@"true"] == NSOrderedSame) {
-            Label_Error.text = @"";
-            return YES;
+    @try {
+        NSDictionary* jsonDict = 
+            [[NSDictionary alloc] initWithObjectsAndKeys:
+            //inquiryDate, @"InquiryDate",
+            TextField_Name.text, @"Name",
+            TextField_Mobile.text, @"Mobile",
+            TextField_Email.text, @"Email",
+            TextField_Promoter.text, @"Promoter",
+            Button_Birth.titleLabel.text, @"Birth",
+            _currentChannelCode, @"ChannelCode",
+            _currentSchoolCode, @"SchoolCode",
+            TextView_Comment.text, @"Comment",
+            TextField_VisitTime.text, @"VisitTime",
+            TextField_MarketPlace.text, @"MarketPlace",
+            nil];
+        
+        [postRequest cancel];
+        [self setPostRequest:[ASIFormDataRequest requestWithURL:[NSURL URLWithString:__post_url]]];
+        NSString* json = [jsonDict JSONRepresentation];
+        if (!json) {
+            Label_Error.text = @"JSON序列化错误，请重试，或联系maggie.xie@ef.com";
+            return NO;
         }
+        [postRequest appendPostData:[[jsonDict JSONRepresentation] dataUsingEncoding:NSUTF8StringEncoding]];
+        [postRequest addRequestHeader:@"Content-Type" value:@"application/json"];
+        [postRequest addRequestHeader:@"Accept" value:@"application/json"];
+        [postRequest setRequestMethod:@"POST"];
+        [postRequest setTimeOutSeconds:20];
+        
+        
+        // Synchronous POST JSON
+        [postRequest startSynchronous];
+        
+        [jsonDict release];
+        
+        NSError *error = [postRequest error];
+        if (!error) {
+            NSString *responseString = [postRequest responseString];
+            NSLog(@"%@", responseString);
+            if ([responseString caseInsensitiveCompare:@"true"] == NSOrderedSame) {
+                Label_Error.text = @"";
+                return YES;
+            }
+        }
+    } @catch (NSException* ex) {
+        NSLog(@"EFKidsLeadsFormViewController::postFormData: Caught %@: %@", [ex name], [ex reason]);
     }
     Label_Error.text = @"数据提交错误，请重试！请联系maggie.xie@ef.com";
     return NO;
