@@ -74,6 +74,8 @@
 		B63AEA77140A07C900EA4D2F /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B63AEA76140A07C900EA4D2F /* libz.dylib */; };
 		B6EAAA561415127900AC90B7 /* FormLandscape.png in Resources */ = {isa = PBXBuildFile; fileRef = B6EAAA551415127900AC90B7 /* FormLandscape.png */; };
 		B6EAAA5E1415194B00AC90B7 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B6EAAA5D1415194B00AC90B7 /* LoadingView.m */; };
+		B6EAAA6814151F0000AC90B7 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B6EAAA6714151F0000AC90B7 /* QuartzCore.framework */; };
+		B6EAAA731416165E00AC90B7 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = B6EAAA721416165E00AC90B7 /* MBProgressHUD.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -199,6 +201,9 @@
 		B6EAAA551415127900AC90B7 /* FormLandscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FormLandscape.png; path = ../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Resources/Backgrounds/FormLandscape.png; sourceTree = "<group>"; };
 		B6EAAA5C1415194B00AC90B7 /* LoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadingView.h; sourceTree = "<group>"; };
 		B6EAAA5D1415194B00AC90B7 /* LoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingView.m; sourceTree = "<group>"; };
+		B6EAAA6714151F0000AC90B7 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		B6EAAA711416165E00AC90B7 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		B6EAAA721416165E00AC90B7 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -206,6 +211,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6EAAA6814151F0000AC90B7 /* QuartzCore.framework in Frameworks */,
 				B63AEA77140A07C900EA4D2F /* libz.dylib in Frameworks */,
 				B63AEA75140A07BE00EA4D2F /* libxml2.dylib in Frameworks */,
 				B63AEA73140A07B200EA4D2F /* CFNetwork.framework in Frameworks */,
@@ -327,6 +333,7 @@
 			children = (
 				B63AEA76140A07C900EA4D2F /* libz.dylib */,
 				B63AEA74140A07BE00EA4D2F /* libxml2.dylib */,
+				B6EAAA6714151F0000AC90B7 /* QuartzCore.framework */,
 				B63AEA72140A07B200EA4D2F /* CFNetwork.framework */,
 				B63AEA70140A079B00EA4D2F /* SystemConfiguration.framework */,
 				B63AEA6E140A078C00EA4D2F /* MobileCoreServices.framework */,
@@ -364,6 +371,7 @@
 		B63AE9E7140A05F500EA4D2F /* References */ = {
 			isa = PBXGroup;
 			children = (
+				B6EAAA701416165E00AC90B7 /* MBProgressHUD */,
 				B62E329914127FC80037D96D /* SemiModalView */,
 				B63650911411323F0006B2D4 /* SBAlertView */,
 				B63AE9E8140A061E00EA4D2F /* ASIHTTPRequest */,
@@ -569,6 +577,16 @@
 			path = ../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views;
 			sourceTree = "<group>";
 		};
+		B6EAAA701416165E00AC90B7 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				B6EAAA711416165E00AC90B7 /* MBProgressHUD.h */,
+				B6EAAA721416165E00AC90B7 /* MBProgressHUD.m */,
+			);
+			name = MBProgressHUD;
+			path = EFKidsLeadsForm/References/MBProgressHUD;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -685,6 +703,7 @@
 				B62E32A514127FC80037D96D /* UIViewController+TDSemiModalExtension.m in Sources */,
 				B62E32B1141351240037D96D /* EFKidsLeadsSubmittedViewController.m in Sources */,
 				B6EAAA5E1415194B00AC90B7 /* LoadingView.m in Sources */,
+				B6EAAA731416165E00AC90B7 /* MBProgressHUD.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

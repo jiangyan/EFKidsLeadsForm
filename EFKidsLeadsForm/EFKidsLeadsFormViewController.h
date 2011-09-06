@@ -10,6 +10,7 @@
 
 #import "SBTableAlert.h"
 #import "TDDatePickerController.h"
+#import "MBProgressHUD.h"
 
 @class EFKidsLeadsSubmittedViewController;
 @class ASIFormDataRequest;
@@ -20,7 +21,7 @@ typedef enum AlertViewType {
     CHANNEL
 } AlertViewType;
 
-@interface EFKidsLeadsFormViewController : UIViewController <SBTableAlertDelegate, SBTableAlertDataSource> {
+@interface EFKidsLeadsFormViewController : UIViewController <SBTableAlertDelegate, SBTableAlertDataSource, MBProgressHUDDelegate> {
 
     // Controls
     IBOutlet UIButton* Button_School;
@@ -51,6 +52,8 @@ typedef enum AlertViewType {
     
     // Member
     ASIFormDataRequest* postRequest;
+    MBProgressHUD *HUD;
+    bool _post_success;
 }
 
 // Properties
@@ -95,5 +98,5 @@ typedef enum AlertViewType {
 - (void) setButtonText:(int)index;
 - (NSString*)validateFormData;
 - (void)flipToSubmittedView;
-- (BOOL) postFormData;
+- (void) postFormData;
 @end

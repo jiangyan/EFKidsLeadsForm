@@ -102,16 +102,37 @@ static NSString* __post_url = @"http://devcn.englishtown.com/partners/e1/leads/f
 }
 
 -(IBAction)ButtonClick_SubmitForm:(id)sender {
-
+    
     NSString* ret = [self validateFormData];
     if ([ret isEqualToString:(@"")] || [ret length] == 0) {
-        if ([self postFormData] == YES) {
-            [self flipToSubmittedView];
-        }
+
+        HUD = [[MBProgressHUD alloc] initWithView:self.view];
+        [self.view addSubview:HUD];
+        
+        // Regisete for HUD callbacks so we can remove it from the window at the right time
+        HUD.delegate = self;
+        
+        HUD.labelText = @"信息正在提交...";
+        
+        // Show the HUD while the provided method executes in a new thread
+        [HUD showWhileExecuting:@selector(postFormData) onTarget:self withObject:nil animated:YES];
     } else {
         Label_Error.text = ret;
     }
 }
+
+#pragma mark -
+#pragma mark MBProgressHUDDelegate methods
+
+- (void)hudWasHidden {
+    // Remove HUD from screen when the HUD was hidded
+    [HUD removeFromSuperview];
+    [HUD release];
+    if (_post_success == true) {
+        [self flipToSubmittedView];
+    }
+}
+
 
 #pragma mark - Date Picker Delegate
 
@@ -167,9 +188,10 @@ static NSString* __post_url = @"http://devcn.englishtown.com/partners/e1/leads/f
 
 #pragma mark - Class Methods
 
-- (BOOL) postFormData {
-    
+- (void) postFormData {
+    _post_success = false;
     @try {
+        
         NSDictionary* jsonDict = 
             [[NSDictionary alloc] initWithObjectsAndKeys:
             //inquiryDate, @"InquiryDate",
@@ -190,7 +212,8 @@ static NSString* __post_url = @"http://devcn.englishtown.com/partners/e1/leads/f
         NSString* json = [jsonDict JSONRepresentation];
         if (!json) {
             Label_Error.text = @"JSON序列化错误，请重试，或联系maggie.xie@ef.com";
-            return NO;
+            _post_success = false;
+            return;
         }
         [postRequest appendPostData:[[jsonDict JSONRepresentation] dataUsingEncoding:NSUTF8StringEncoding]];
         [postRequest addRequestHeader:@"Content-Type" value:@"application/json"];
@@ -207,17 +230,19 @@ static NSString* __post_url = @"http://devcn.englishtown.com/partners/e1/leads/f
         NSError *error = [postRequest error];
         if (!error) {
             NSString *responseString = [postRequest responseString];
-            NSLog(@"%@", responseString);
-            if ([responseString caseInsensitiveCompare:@"true"] == NSOrderedSame) {
+            if (responseString && [responseString caseInsensitiveCompare:@"true"] == NSOrderedSame) {
                 Label_Error.text = @"";
-                return YES;
+                _post_success = true;
+                return;
             }
         }
     } @catch (NSException* ex) {
         NSLog(@"EFKidsLeadsFormViewController::postFormData: Caught %@: %@", [ex name], [ex reason]);
+    } @finally {
+        // Clean up
     }
     Label_Error.text = @"数据提交错误，请重试！请联系maggie.xie@ef.com";
-    return NO;
+    _post_success = false;
 }
 
 - (void)flipToSubmittedView {

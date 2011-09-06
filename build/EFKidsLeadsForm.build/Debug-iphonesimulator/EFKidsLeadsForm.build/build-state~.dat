@@ -4,21 +4,21 @@ r1
 cCheck dependencies
 cProcessInfoPlistFile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/Info.plist EFKidsLeadsForm/EFKidsLeadsForm-Info.plist
 cProcessPCH /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch.gch EFKidsLeadsForm/EFKidsLeadsForm-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormAppDelegate.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesContainerRequest.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesContainerRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIHTTPRequest.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/main.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormAppDelegate.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormViewController.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIDataCompressor.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIDataDecompressor.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIDownloadCache.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIFormDataRequest.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIHTTPRequest.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIInputStream.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASINetworkQueue.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIWebPageRequest.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIWebPageRequest/ASIWebPageRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesCDNRequest.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesCDNRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesContainer.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesContainer.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesContainerRequest.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesContainerRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesContainerXMLParserDelegate.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesContainerXMLParserDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesObject.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesObject.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesObjectRequest.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesObjectRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42
@@ -49,7 +49,6 @@ cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.buil
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/UIViewController+TDSemiModalExtension.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/SemiModalView/UIViewController+TDSemiModalExtension.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsSubmittedViewController.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsSubmittedViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/LoadingView.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/MBProgressHUD.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/MBProgressHUD/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cLd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm normal i386
 cGenerateDSYMFile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm
 cCopyStringsFile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/en.lproj/InfoPlist.strings EFKidsLeadsForm/en.lproj/InfoPlist.strings
@@ -235,9 +234,9 @@ t1305521581
 s341
 
 N/Users/jiangyan/__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.h
-c000000004E64E90700000000000002B4
-t1315236103
-s692
+c0000000049FFCFD70000000000000271
+t1241501655
+s625
 i<UIKit/UIKit.h>
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Resources/Backgrounds/FormLandscape.png
@@ -256,9 +255,9 @@ t1314507522
 s559637
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.h
-c000000004E64E90700000000000002B4
-t1315236103
-s692
+c0000000049FFCFD70000000000000271
+t1241501655
+s625
 i<UIKit/UIKit.h>
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m
@@ -302,18 +301,17 @@ i"EFKidsLeadsFormAppDelegate.h"
 i"EFKidsLeadsFormViewController.h"
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormViewController.h
-c000000004E65E3290000000000000BA6
-t1315300137
-s2982
+c000000004E63AF770000000000000B45
+t1315155831
+s2885
 i<UIKit/UIKit.h>
 i"SBTableAlert.h"
 i"TDDatePickerController.h"
-i"MBProgressHUD.h"
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormViewController.m
-c000000004E65E5B10000000000003510
-t1315300785
-s13584
+c000000004E64E5270000000000003377
+t1315235111
+s13175
 i"EFKidsLeadsFormViewController.h"
 i"SBJson.h"
 i"ASIFormDataRequest.h"
@@ -717,18 +715,6 @@ i<netdb.h>
 i<CoreFoundation/CoreFoundation.h>
 i"Reachability.h"
 
-N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/MBProgressHUD/MBProgressHUD.h
-c000000004C4B94560000000000002DCE
-t1280021590
-s11726
-i<UIKit/UIKit.h>
-
-N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/MBProgressHUD/MBProgressHUD.m
-c000000004C4B94560000000000004DF8
-t1280021590
-s19960
-i"MBProgressHUD.h"
-
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/SBAlertView/SBTableAlert.h
 c000000004E27448600000000000014A6
 t1311196294
@@ -997,269 +983,265 @@ s360
 i<UIKit/UIKit.h>
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app
-t1315300489
-s578
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM
-t1315300489
-s102
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/.gitattributes
-t1315235818
-s29
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/.gitignore
-t1315235818
-s178
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/Default-Landscape~ipad.png
-t1315235818
-s669970
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/Default-Portrait~ipad.png
-t1315235818
-s559637
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm
-t1315300489
-s910860
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsSubmittedViewController.nib
-t1315235818
-s3258
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/FormLandscape.png
-t1315235818
-s346796
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/FormPortrait.png
-t1315235818
-s585038
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/Info.plist
-t1315235809
-s856
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/PkgInfo
-t1315235809
-s8
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/README-GHUnit
-t1315235818
-s372
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/SubmittedLandscape.png
-t1315235818
-s598687
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/TDDatePickerController.nib
-t1315235818
-s2937
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/ef_logo.png
-t1315235818
-s7481
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/en.lproj/EFKidsLeadsFormViewController.nib
-t1315235818
-s7692
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/en.lproj/InfoPlist.strings
-t1315235817
-s42
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/en.lproj/MainWindow.nib
-t1315235818
-s1682
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIAuthenticationDialog.o
-t1315235812
-s106348
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesCDNRequest.o
-t1315235814
-s32052
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesContainer.o
-t1315235814
-s16756
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesContainerRequest.o
-t1315235811
-s31544
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesContainerXMLParserDelegate.o
-t1315235814
-s23592
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesObject.o
-t1315235814
-s15176
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesObjectRequest.o
-t1315235814
-s58892
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASICloudFilesRequest.o
-t1315235814
-s21880
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIDataCompressor.o
-t1315235812
-s21292
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIDataDecompressor.o
-t1315235812
-s21260
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIDownloadCache.o
-t1315235812
-s63412
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIFormDataRequest.o
-t1315235813
-s47672
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIHTTPRequest.o
-t1315235813
-s557252
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIInputStream.o
-t1315235813
-s26800
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASINetworkQueue.o
-t1315235813
-s64680
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIS3Bucket.o
-t1315235814
-s10944
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIS3BucketObject.o
-t1315235814
-s28400
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIS3BucketRequest.o
-t1315235814
-s45164
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIS3ObjectRequest.o
-t1315235814
-s39588
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIS3Request.o
-t1315235814
-s58968
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIS3ServiceRequest.o
-t1315235814
-s25400
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIWebPageRequest.o
-t1315235814
-s91448
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsForm.LinkFileList
-c000000004E65E4870000000000001D00
-t1315300487
-s7424
+c000000004E64E7E10000000000001C65
+t1315235809
+s7269
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormAppDelegate.o
-t1315300488
-s51100
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormViewController.o
-t1315300488
-s121592
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsSubmittedViewController.o
-t1315300488
-s43472
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/Helper.o
-t1315235816
-s7680
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/LoadingView.o
-t1315236104
-s45428
-
-N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/MBProgressHUD.o
-t1315300488
-s115140
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/NSObject+SBJson.o
-t1315235815
-s5960
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/Reachability.o
-t1315235815
-s37172
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonParser.o
-t1315235815
-s13564
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonStreamParser.o
-t1315235815
-s25856
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o
-t1315235815
-s7896
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonStreamParserAdapter.o
-t1315235815
-s23140
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonStreamParserState.o
-t1315235815
-s47256
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonStreamWriter.o
-t1315235815
-s43740
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o
-t1315235815
-s8220
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonStreamWriterState.o
-t1315235815
-s27604
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonTokeniser.o
-t1315235815
-s27292
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonUTF8Stream.o
-t1315235816
-s15184
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBJsonWriter.o
-t1315235816
-s16372
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/SBTableAlert.o
-t1315235816
-s115888
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/TDDatePickerController.o
-t1315235816
-s42724
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/TDSemiModalViewController.o
-t1315235816
-s37332
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/UIViewController+TDSemiModalExtension.o
-t1315235817
-s39892
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/main.o
-t1315235811
-s3124
+t2
+s0
 
 N/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/ef_logo.png
 c000000004E3B9E0F0000000000001D39
@@ -1267,8 +1249,8 @@ t1312529935
 s7481
 
 N/var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch.gch
-t1315235810
-s12283312
+t2
+s0
 
 NEFKidsLeadsForm/EFKidsLeadsForm-Info.plist
 c000000004E61BE860000000000000507
@@ -1359,9 +1341,6 @@ r0
 CBuild AST from /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/External/Reachability/Reachability.m
 r0
 
-CBuild AST from /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/MBProgressHUD/MBProgressHUD.m
-r0
-
 CBuild AST from /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/SBAlertView/SBTableAlert.m
 r0
 
@@ -1415,7 +1394,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies29956c351d16b441^dd066d351d16b441^---0#1#0#--18"Check dependencies
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0f28cb601f15b441^8fc2bd611f15b441^---0#1#0#--18"Check dependencies
 
 CCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.llvmgcc42
 s336928611.560477
@@ -1704,8 +1683,8 @@ xcom.apple.compilers.llvmgcc42
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIWebPageRequest/ASIWebPageRequest.m653787651f15b441^899b5f661f15b441^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIWebPageRequest/ASIWebPageRequest.m0000000000000000^2639"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIWebPageRequest.o EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIWebPageRequest/ASIWebPageRequest.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/ASIHTTPRequest/Classes/ASIWebPageRequest/ASIWebPageRequest.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/ASIWebPageRequest.o
 
 CCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormAppDelegate.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
-s336993287.972394
-e336993288.571980
+s336928611.154159
+e336928611.261414
 r1
 xCompileC
 xbuild/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormAppDelegate.o
@@ -1714,11 +1693,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.m2711f9071c16b441^3b8f92081c16b441^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.m0000000000000000^2571"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormAppDelegate.o EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormAppDelegate.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.mdd9727631f15b441^ffe942631f15b441^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.m0000000000000000^2571"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormAppDelegate.o EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormAppDelegate.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormAppDelegate.o
 
 CCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormViewController.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
-s336993589.463234
-e336993589.732047
+s336928611.262736
+e336928611.559175
 r1
 xCompileC
 xbuild/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormViewController.o
@@ -1727,11 +1706,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormViewController.m85b476351d16b441^7765bb351d16b441^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormViewController.m0000000000000000^2583"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormViewController.o EFKidsLeadsForm/EFKidsLeadsFormViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormViewController.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormViewController.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormViewController.m3d6343631f15b441^d2358f631f15b441^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormViewController.m0000000000000000^2583"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormViewController.o EFKidsLeadsForm/EFKidsLeadsFormViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsFormViewController.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsFormViewController.o
 
 CCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsSubmittedViewController.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsSubmittedViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
-s336993288.628464
-e336993288.749483
+s336928616.897775
+e336928617.130842
 r1
 xCompileC
 xbuild/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsSubmittedViewController.o
@@ -1740,7 +1719,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsSubmittedViewController.mae0da1081c16b441^59dcbf081c16b441^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsSubmittedViewController.m0000000000000000^2603"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsSubmittedViewController.o EFKidsLeadsForm/EFKidsLeadsSubmittedViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsSubmittedViewController.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsSubmittedViewController.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsSubmittedViewController.m5af5e5681f15b441^077d21691f15b441^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsSubmittedViewController.m0000000000000000^2603"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsSubmittedViewController.o EFKidsLeadsForm/EFKidsLeadsSubmittedViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsSubmittedViewController.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsSubmittedViewController.o
 
 CCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/Helper.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/Common/Helper.m normal i386 objective-c com.apple.compilers.llvmgcc42
 s336928616.174562
@@ -1756,8 +1735,8 @@ xcom.apple.compilers.llvmgcc42
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/Common/Helper.m31d12c681f15b441^de8e74681f15b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/Common/Helper.m0000000000000000^2505"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/Helper.o EFKidsLeadsForm/Common/Helper.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/Common/Helper.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/Helper.o
 
 CCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/LoadingView.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m normal i386 objective-c com.apple.compilers.llvmgcc42
-s336928903.874907
-e336928904.151000
+s336928617.072790
+e336928617.277279
 r1
 xCompileC
 xbuild/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/LoadingView.o
@@ -1766,20 +1745,8 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.mf818e0872015b441^d1b226882015b441^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m0000000000000000^2647"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/LoadingView.o EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/LoadingView.o
-
-CCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/MBProgressHUD.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/MBProgressHUD/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvmgcc42
-s336993288.640929
-e336993288.867059
-r1
-xCompileC
-xbuild/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/MBProgressHUD.o
-x/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/MBProgressHUD/MBProgressHUD.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/MBProgressHUD/MBProgressHUD.md637a4081c16b441^bef5dd081c16b441^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/MBProgressHUD/MBProgressHUD.m0000000000000000^2569"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/MBProgressHUD.o EFKidsLeadsForm/References/MBProgressHUD/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/MBProgressHUD/MBProgressHUD.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/MBProgressHUD.o
+o/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m:24: warning: no previous prototype for 'NewPathWithRoundRect'
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Compile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m96cf12691f15b441^180b47691f15b441^-207"/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m:24: warning: no previous prototype for 'NewPathWithRoundRect'1(21%IDEActivityLogMessage2@48"No previous prototype for 'NewPathWithRoundRect'-336928617#0#207#-1#-23%DVTTextDocumentLocation3@101"file://localhost/Users/jiangyan/__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m0000000000000000^23#18446744073709551615#23#18446744073709551615#18446744073709551615#0#29"No previous prototype for '*'--0#0#0#-19%DVTDocumentLocation4@160"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m0000000000000000^2647"CompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/LoadingView.o EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -include /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/../../../../__NOW/E1KidsLeads/EFKidsLeadsForm/EFKidsLeadsForm/Views/LoadingView.m -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/LoadingView.o
 
 CCompileC build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/NSObject+SBJson.o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/References/SBJson/NSObject+SBJson.m normal i386 objective-c com.apple.compilers.llvmgcc42
 s336928614.975917
@@ -2138,23 +2105,23 @@ xbuild/Debug-iphonesimulator/EFKidsLeadsForm.app/ef_logo.png
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphonesimulator/EFKidsLeadsForm.app/ef_logo.png5d6c5a6a1f15b441^71915b6a1f15b441^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/ef_logo.png00f4cce5dcffdf42^521"CpResource ef_logo.png build/Debug-iphonesimulator/EFKidsLeadsForm.app/ef_logo.png    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/ef_logo.png /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app
 
 CGenerateDSYMFile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm
-s336993589.876790
-e336993590.033386
+s336928617.456679
+e336928617.647446
 r1
 xGenerateDSYMFile
 x/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM
 x/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Generating /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM5d89e0351d16b441^7ff809361d16b441^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM/0000000000000000^565"GenerateDSYMFile build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Generating /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYMa4fc74691f15b441^a1bea5691f15b441^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM00f4cce5dcffdf42^565"GenerateDSYMFile build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app.dSYM
 
 CLd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm normal i386
-s336993589.739686
-e336993589.851246
+s336928617.284336
+e336928617.448929
 r1
 xLd
 x/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm
 xnormal
 xi386
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm9274bd351d16b441^b7f0dc351d16b441^---0#0#0#--1179"Ld build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm normal i386    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -filelist /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsForm.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework QuartzCore -lz -lxml2 -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsFormace348691f15b441^67ed72691f15b441^---0#0#0#--1179"Ld build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm normal i386    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -filelist /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/Objects-normal/i386/EFKidsLeadsForm.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework QuartzCore -lz -lxml2 -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/EFKidsLeadsForm
 
 CProcessInfoPlistFile /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app/Info.plist EFKidsLeadsForm/EFKidsLeadsForm-Info.plist
 s336928609.771577
@@ -2182,10 +2149,10 @@ xcom.apple.compilers.llvmgcc42
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile EFKidsLeadsForm/EFKidsLeadsForm-Prefix.pch9088c9611f15b441^ee42df621f15b441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsForm-Prefix.pch0000000000000000^2459"ProcessPCH /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch.gch EFKidsLeadsForm/EFKidsLeadsForm-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-generated-files.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-own-target-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-all-target-headers.hmap -iquote /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/EFKidsLeadsForm-project-headers.hmap -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources/i386 -I/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/EFKidsLeadsForm.build/Debug-iphonesimulator/EFKidsLeadsForm.build/DerivedSources -F/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/EFKidsLeadsForm/EFKidsLeadsForm-Prefix.pch -o /var/folders/sq/s6d8w6813_x26bkrsc60psjm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EFKidsLeadsForm-Prefix-fabnrwuggliabqaxyoowzvmusmgd/EFKidsLeadsForm-Prefix.pch.gch
 
 CTouch /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app
-s336993590.058198
-e336993590.065014
+s336928618.813763
+e336928618.892775
 r1
 xTouch
 x/Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Touch /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app30f60e361d16b441^5da410361d16b441^---0#0#0#--356"Touch build/Debug-iphonesimulator/EFKidsLeadsForm.app    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Touch /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app5a67d06a1f15b441^f19de46a1f15b441^---0#0#0#--356"Touch build/Debug-iphonesimulator/EFKidsLeadsForm.app    cd /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jiangyan/g.gITHUB/i.iOS/EFKidsLeadsForm/build/Debug-iphonesimulator/EFKidsLeadsForm.app
 
